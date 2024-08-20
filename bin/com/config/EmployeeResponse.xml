@@ -1,0 +1,50 @@
+<Employees>
+    <Employee>
+        <EmployeeID>EMP10001</EmployeeID>
+        <EmployeeFullName>Udara Samaratunge</EmployeeFullName>
+        <EmployeeFullAddress>123/1,Kandy Road,Gampaha</EmployeeFullAddress>
+        <FacultyName>Computing</FacultyName>
+        <Department>Software Engineering</Department>
+        <Designation>Lecturer</Designation>
+    </Employee>
+    <Employee>
+        <EmployeeID>EMP10002</EmployeeID>
+        <EmployeeFullName>John Smith</EmployeeFullName>
+        <EmployeeFullAddress>50/1,Cinnamon Garden,Colombo</EmployeeFullAddress>
+        <FacultyName>Engineering</FacultyName>
+        <Department>Electronic Engineering</Department>
+        <Designation>Engineer</Designation>
+    </Employee>
+    <Employee>
+        <EmployeeID>EMP10003</EmployeeID>
+        <EmployeeFullName>Tharindu Perera</EmployeeFullName>
+        <EmployeeFullAddress>101/2,Kesbewa Road,Piliyandala</EmployeeFullAddress>
+        <FacultyName>Computing</FacultyName>
+        <Department>Software Engineering</Department>
+        <Designation>Lecturer</Designation>
+    </Employee>
+    <Employee>
+        <EmployeeID>EMP10004</EmployeeID>
+        <EmployeeFullName>Amila Nuwan</EmployeeFullName>
+        <EmployeeFullAddress>117/1,Walasmulla Road,Hakmana</EmployeeFullAddress>
+        <FacultyName>Computing</FacultyName>
+        <Department>Computer Networking</Department>
+        <Designation>Lecturer</Designation>
+    </Employee>
+    <Employee>
+        <EmployeeID>EMP10005</EmployeeID>
+        <EmployeeFullName>Saman Kumara</EmployeeFullName>
+        <EmployeeFullAddress>20/1,New Kandy Road,Malabe</EmployeeFullAddress>
+        <FacultyName>Business</FacultyName>
+        <Department>Information System</Department>
+        <Designation>Lecturer</Designation>
+    </Employee>
+    <Employee>
+        <EmployeeID>EMP10006</EmployeeID>
+        <EmployeeFullName>Nimal Rathnayake</EmployeeFullName>
+        <EmployeeFullAddress>117,New Kandy Road,Malabe</EmployeeFullAddress>
+        <FacultyName>Computing</FacultyName>
+        <Department>Information Technology</Department>
+        <Designation>Lecturer</Designation>
+    </Employee>
+</Employees>
